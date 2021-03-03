@@ -32,6 +32,14 @@
       "githubUrl": "https://github.com/ngrx/platform"
     },
     {
+      "logo":"I don't know how to place logo here",
+      "title": "PyOn",
+      "quote": "Want use python code online? Use PyOn - Python Online",
+      "quoteSourceUrl": "I don't have this",
+      "inviteCode": "xeD5GDxVmW",
+      "githubUrl": "I don't have this now too, but source code is open for everyone"
+    }
+    {
       "logo": "augur.svg",
       "title": "Augur",
       "quote": "Discord has many of the same features of Slack, however they... give us better community moderation tools. Security features such as link checking and validation is built in. Discord will allow us to grow our online community without any restrictions with our upcoming launch.",
